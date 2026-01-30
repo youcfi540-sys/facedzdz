@@ -1,0 +1,7 @@
+{
+  "name": "ProHeadshot AI",
+  "description": "Transform your casual selfies into professional corporate portraits suitable for CVs, LinkedIn, and passports using advanced AI image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
